@@ -939,5 +939,10 @@ Tambahkan code berikut pada bagian application agar set alarm dapat berjalan :
 Hasil Run
 Berikut adalah hasil running dari aplikasi yang telah saya buat :
 
- WhatsApp.Video.2023-11-22.at.19.56.10.mp4 
+
+
+
+https://github.com/Syhrlhrynt/ProjectIntent/assets/129706370/772a292d-c92a-4cc2-9845-d185c3f79976
+
+
 Sekian, Terima kasih.
